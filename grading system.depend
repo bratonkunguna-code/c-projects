@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791917363 source:c:\users\238294.nysei\desktop\braton projects\program c\grading system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
